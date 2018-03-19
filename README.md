@@ -1,5 +1,5 @@
 # Deep Learning Specialization - by Andrew Ng
-[Coursera Specialization Link](https://www.coursera.org/specializations/deep-learning)
+[Coursera Specialization by deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
 
 Author: Xiao Nan
 
