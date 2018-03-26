@@ -1,6 +1,6 @@
 ## Course 1 Neural Networks and Deep Learning
 
-##### [Certificate](https://github.com/xnone/coursera-deep-learning/blob/master/Course-1-Neural-Networks-and-Deep-Learning/Coursera%20S96UJ33QYT7W.pdf)
+### [Certificate](https://github.com/xnone/coursera-deep-learning/blob/master/Course-1-Neural-Networks-and-Deep-Learning/Coursera%20S96UJ33QYT7W.pdf)
 
 Week | Course | Quiz | Programming Assignment 1 | Programming Assignment 2 | Grade 
 --- | --- | --- | --- | --- | --- 
