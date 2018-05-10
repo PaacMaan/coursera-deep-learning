@@ -3,7 +3,7 @@
 
 Author: Xiao Nan
 
-In progress: Now starting course 3 - Structuring Machine Learning Projects
+In progress: Now starting course 4 - Convolutional Neural Networks
 
 ## Courses
 Index | Course | Repo | Duration | Grade | Certification
