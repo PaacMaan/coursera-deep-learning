@@ -3,7 +3,7 @@
 
 Author: Xiao Nan
 
-In progress: Now starting course 4 - Convolutional Neural Networks
+In progress: Now course 5 - Sequence Models
 
 ## Courses
 Index | Course | Repo | Duration | Grade | Certification
