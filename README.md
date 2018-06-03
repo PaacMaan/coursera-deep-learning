@@ -3,7 +3,7 @@
 
 Author: Xiao Nan
 
-In progress: Now course 5 - Sequence Models
+### [Certificate](https://github.com/xnone/coursera-deep-learning/blob/master/Coursera%20QXVJ4BWB5FG6.pdf)
 
 ## Courses
 Index | Course | Repo | Duration | Grade | Certification
@@ -12,4 +12,4 @@ Index | Course | Repo | Duration | Grade | Certification
 2 | [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network) | [Course 2 Repo](https://github.com/xnone/coursera-deep-learning/tree/master/Course-2-Improving-Deep-Neural-Networks) | [3 weeks](https://github.com/xnone/coursera-deep-learning/tree/master/Course-2-Improving-Deep-Neural-Networks) | [100%](https://www.coursera.org/account/accomplishments/records/K5XRLKSDGHPW) | [PDF Link](https://github.com/xnone/coursera-deep-learning/blob/master/Course-2-Improving-Deep-Neural-Networks/Coursera%205M295FFE959N.pdf)
 3 | [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) | [Course 3 Repo](https://github.com/xnone/coursera-deep-learning/tree/master/Course-3-Structuring-Machine-Learning-Projects) | [2 weeks](https://github.com/xnone/coursera-deep-learning/tree/master/Course-3-Structuring-Machine-Learning-Projects) | [100%](https://www.coursera.org/account/accomplishments/records/7XU38W2EEUM8) | [PDF Link](https://github.com/xnone/coursera-deep-learning/blob/master/Course-3-Structuring-Machine-Learning-Projects/Coursera%20MVMURNWCMQZW.pdf)
 4 | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) | [Course 4 Repo](https://github.com/xnone/coursera-deep-learning/tree/master/Course-4-Convolutional-Neural-Networks) | [4 weeks](https://github.com/xnone/coursera-deep-learning/tree/master/Course-4-Convolutional-Neural-Networks) | [100%](https://www.coursera.org/account/accomplishments/records/4BHR5GT5ZWWT) | [PDF Link](https://github.com/xnone/coursera-deep-learning/blob/master/Course-4-Convolutional-Neural-Networks/Coursera%20TK82EVUM8WNN.pdf)
-5 | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | [Course 5 Repo](https://github.com/xnone/coursera-deep-learning/tree/master/Course-5-Sequence-Models) | [3 weeks](https://github.com/xnone/coursera-deep-learning/tree/master/Course-5-Sequence-Models) | [In Progress] | [PDF Link]
+5 | [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) | [Course 5 Repo](https://github.com/xnone/coursera-deep-learning/tree/master/Course-5-Sequence-Models) | [3 weeks](https://github.com/xnone/coursera-deep-learning/tree/master/Course-5-Sequence-Models) | [100%](https://www.coursera.org/account/accomplishments/records/KT83B5YGUB8T) | [PDF Link](https://github.com/xnone/coursera-deep-learning/blob/master/Course-5-Sequence-Models/Coursera%20W64EMC5HU4GD.pdf)
